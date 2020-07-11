@@ -1,0 +1,15 @@
+body header {
+    background-color:white;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px #CCCCCC solid;
+}
+body header div.logo {
+    background-image: url(../images/logo.png);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 20px;
+    top: 10%;
+}
