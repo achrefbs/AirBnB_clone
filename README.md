@@ -6,6 +6,7 @@
 
 # Description
 Data management, and the base classes for the storage of this data.
+web
 ## Example
 ```bash
 $ echo "help" | ./console.py
